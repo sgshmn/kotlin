@@ -8,3 +8,6 @@ fun main() {
     // var : variable 변수?
     // val : value 상수?
 }
+
+fun onParam(out: (String) -> String) {
+}
